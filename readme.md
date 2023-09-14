@@ -26,7 +26,7 @@ In this project, I've used two approaches:
 
 #### With labeled dataset: 
 
-The spam detection effort is greatly simplified by having access to a labeled dataset. You can use supervised machine learning methods using a labelled dataset. These methods entail building a model from the dataset, where each case is classified as spam or not. The model picks up on the patterns, traits, and qualities that set spam apart from real messages. Once the model has been trained, this method makes spam detection accurate and effective. Additionally, by retraining the model with fresh data and fine-tuning its algorithms in accordance with changing spam patterns, you can continuously raise the model's accuracy.
+The spam detection effort is greatly simplified by having access to a labelled dataset. You can use supervised machine learning methods using a labelled dataset. These methods entail building a model from the dataset, where each case is classified as spam or not. The model picks up on the patterns, traits, and qualities that set spam apart from real messages. Once the model has been trained, this method makes spam detection accurate and effective. Additionally, by retraining the model with fresh data and fine-tuning its algorithms in accordance with changing spam patterns, you can continuously raise the model's accuracy.
 
 #### Without labeled dataset:
 
